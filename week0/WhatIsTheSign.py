@@ -1,1 +1,0 @@
-def what_is_the_sign(day, month):
