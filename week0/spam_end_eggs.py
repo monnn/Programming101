@@ -1,6 +1,6 @@
 def prepare_meal(n):
     result = ""
-    while n > 0:
+    while n > 1:
         if n % 3 == 0 and n % 5 == 0:
             result += "spam and eggs "
             n /= 15
